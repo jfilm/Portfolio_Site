@@ -1,0 +1,32 @@
+h2 {
+  padding: 10px;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+}
+#image {
+  padding: 20px;
+  align-content: center;
+  max-width: 100%;
+  height: auto;
+}
+#text {
+  padding: 20px;
+  text-align: center;
+}
+#video {
+  padding: 20px;
+  align-content: center;
+  max-width: 900px;
+  height: auto;
+}
+h3 {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+p {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 40px;
+}
